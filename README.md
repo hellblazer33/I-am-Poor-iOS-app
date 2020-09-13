@@ -6,4 +6,4 @@ An simple fun iOS app which shows you are poor.
 
 # App Screenshot
 
-![Image description](https://i.imgur.com/gMh0vLw.png)
+![Image description](https://i.imgur.com/QNaLRqb.png)
